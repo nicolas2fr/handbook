@@ -1,4 +1,4 @@
-# Basecamp Is You
+# 50A et vous 
 
 Everyone working at Basecamp represents Basecamp. When a customer gets a response from Merissa on support, Merissa is Basecamp. When a customer reads a tweet by Eron that our systems are down, Eron is Basecamp. In those situations, all the other stuff we do to cultivate our best image is secondary. What’s right in front of someone in a time of need is what they’ll remember.
 
